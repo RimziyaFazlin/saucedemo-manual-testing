@@ -110,7 +110,6 @@ All defects were found with `problem_user`, a SauceDemo account that is intentio
 
 ## Contact
 
-**Rimziya Fazlin** 
-LinkedIn: https://www.linkedin.com/in/rimziya-fazlin 
-
-Email: rimziyafazlin118@gmail.com
+**Rimziya Fazlin**  
+- **LinkedIn:** [Rimziya Fazlin](https://www.linkedin.com/in/rimziya-fazlin)
+- **Email:** [rimziyafazlin118@gmail.com](mailto:rimziyafazlin118@gmail.com)
